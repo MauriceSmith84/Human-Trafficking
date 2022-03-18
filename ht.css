@@ -1,0 +1,56 @@
+body{
+    background-color: #74EBD5;
+    background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+    ;
+    text-align: center;
+    
+}
+
+.message_container{
+    color: blueviolet;
+    height: 40px; 
+}
+
+.mo{
+    color: white;
+    text-justify: auto;
+    text-align: center;
+    align-content: center;
+}
+
+.badge{
+    height: 60px;
+    width: 60px;
+    line-height: 40px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.card{
+    border-radius: 5%;
+}
+
+.human{
+    padding-top: 20px;
+}
+
+.instructions{
+ background-color: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+    color: white;
+}
+
+.time{
+    color: white;
+    margin-top: 10%;
+    font-size: 75px;
+    background-color: blueviolet;
+    height: 75px;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 50%;
+}
